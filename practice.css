@@ -1,0 +1,113 @@
+.flex{
+    display: flex;
+    height: 100px;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    opacity: 1px;
+    background: rgba(84, 84, 84, 0.864) url("file:///C:/Users/anjali/OneDrive/Pictures/Saved%20Pictures/site_slider_filename.jpg");
+    background-blend-mode:saturation;
+}.img{
+    height: 40px;
+}
+.img2{
+    height: 40px;
+}
+.img3{
+    height: 35px;
+}
+.data{
+    
+    margin-top: 110px;
+    
+}
+.next{
+    display: inline-block;
+    margin-left: 20px;
+    vertical-align: top;
+    
+}
+.range{
+    margin-right: 50px;
+    vertical-align: top;
+}
+.main{
+    background: rgba(109, 109, 109, 0.864) url("file:///C:/Users/anjali/OneDrive/Pictures/Saved%20Pictures/site_slider_filename.jpg");
+    background-blend-mode:saturation;
+}
+.home{
+    background: rgba(84, 84, 84, 0.864) url("file:///C:/Users/anjali/OneDrive/Pictures/Saved%20Pictures/site_slider_filename.jpg");
+    background-blend-mode:saturation;
+    border: none;
+    color: white;
+    font-size: 15px;
+}
+.pow{
+    height: 36px;
+}
+.tire{
+    height: 40px;
+}
+.air{
+    height: 40px;
+}
+.rtext{
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    color: rgb(11, 121, 11);
+    font-size: 30px;
+}
+.evaque{
+    height: 220px;
+    width: 400px;
+    object-fit: cover;
+    object-position: center;
+    display: inline-block;
+    border-radius: 10px;
+}
+.one{
+    display: inline-block;
+
+}
+.preview{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    row-gap: 10px;
+    column-gap: 15px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.team{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    color: rgb(21, 157, 43);
+
+}
+.dat{
+    text-align: center;
+    margin-top: 13px;
+    color: gray;
+
+}
+.yash{
+    height: 100px;
+    width: 100px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 200px;
+    background-color: white;
+}
+.har{
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content: space-around;
+    margin-top: 30px;
+    background: rgba(201, 201, 201, 0.864) url("file:///C:/Users/anjali/OneDrive/Pictures/Saved%20Pictures/site_slider_filename.jpg");
+    background-blend-mode:saturation;
+    height: 150px;
+}
